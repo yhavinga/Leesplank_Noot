@@ -1,1 +1,13 @@
 .env
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+wandb/
+.DS_Store
+deepspeed_configs/
+.idea/
+outputs/
+dataset/finetune/
+*tar
+*tar.gz
